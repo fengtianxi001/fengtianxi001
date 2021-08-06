@@ -1,11 +1,13 @@
 
 
-### Hi there 👋
+
+<img align="center" src="http://112.124.22.244/figure_bed/overview/overview.png"/>
+
 <!--
 **fengtianxi001/fengtianxi001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fengtianxi001&show_icons=true&hide_border=true"/>
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
