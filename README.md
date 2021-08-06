@@ -1,4 +1,9 @@
 ### Hi there 👋
+<img align="right" height="280" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp" />
+		<img
+			align="left"
+			src="https://github-readme-stats.vercel.app/api?username=fengtianxi001&show_icons=true&hide_border=false&theme=radical"
+		/>
 
 <!--
 **fengtianxi001/fengtianxi001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
